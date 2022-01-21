@@ -218,6 +218,7 @@ main{
 }
 
 .post-desc {
+  margin-top: var(--flex-gap);;
   display: flex;
   flex-direction: column;
   gap: var(--flex-gap);
